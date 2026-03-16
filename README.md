@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pulkitasthana/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pulkitasthana/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pulkitasthana/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pulkitasthana/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pulkitasthana/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pulkitasthana/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -40,4 +42,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/pulkitasthana/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Math
+|  |
+| ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pulkitasthana/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+## Sorting
+|  |
+| ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pulkitasthana/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pulkitasthana/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+## Prefix Sum
+|  |
+| ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pulkitasthana/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 <!---LeetCode Topics End-->

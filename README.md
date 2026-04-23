@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pulkitasthana/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pulkitasthana/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/pulkitasthana/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2615-sum-of-distances](https://github.com/pulkitasthana/Leetcode/tree/master/2615-sum-of-distances) |
 ## Matrix
 |  |
 | ------- |
@@ -60,8 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pulkitasthana/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2615-sum-of-distances](https://github.com/pulkitasthana/Leetcode/tree/master/2615-sum-of-distances) |
 ## Trie
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/pulkitasthana/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Hash Table
+|  |
+| ------- |
+| [2615-sum-of-distances](https://github.com/pulkitasthana/Leetcode/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
